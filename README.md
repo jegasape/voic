@@ -1,6 +1,6 @@
 voic.sh
 
-A simple Bash script that re-encodes video files to strip personal metadata, gives them a random UUID filename, and stamps them with a random filesystem date from the past year. Useful before sharing videos online when you don't want to leak identifying information.
+re-encodes video files to strip personal metadata, gives them a random uuid filename, and stamps them with a random filesystem date from the past year. useful before sharing videos online when you don't want to leak identifying information.
 
 What it does
 
